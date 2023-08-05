@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/DoubleChecking/DoubleChecking.iml" filepath="$PROJECT_DIR$/Singleton/DoubleChecking/DoubleChecking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/singlethreaded/singlethreaded.iml" filepath="$PROJECT_DIR$/Singleton/singlethreaded/singlethreaded.iml" />
     </modules>
   </component>
 </project>
