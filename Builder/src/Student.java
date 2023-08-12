@@ -1,4 +1,6 @@
 public class Student {
+
+
     String Name;
     int age;
     double grade;
@@ -8,7 +10,7 @@ public class Student {
     long PhoneNumber;
 
     private Student(Builder b){
-        this.Name = b.getName();
+        this.Name = b.Name;
         this.age = b.getAge();
         this.grade = b.getGrade();
         this.UniversityName = b.getUniversityName();
@@ -22,7 +24,7 @@ public class Student {
     }
 
     public static class Builder{
-        String Name;
+        private String Name;
         int age;
         double grade;
         String UniversityName;
