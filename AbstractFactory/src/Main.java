@@ -1,4 +1,5 @@
 import buttons.Button;
+import dropdowns.DropDown;
 import menus.Menu;
 
 public class Main {
@@ -11,7 +12,10 @@ public class Main {
         button.changeSize();
 
         Menu menu = uiFactory.CreateMenu();
+        menu.setTheme();
 
+        DropDown dropDown = uiFactory.CreateDropDown();
+        dropDown.dropDownType();
 
     }
 }
