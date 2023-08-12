@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba261029-86c8-4dde-ad84-20e32d517f04" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/AndroidUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/Flutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/IOSUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/SupportedPlatforms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/UIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/UIFactoryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/buttons/AndroidButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/buttons/IOSButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/dropdowns/AndroidDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/dropdowns/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/dropdowns/IOSDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/menus/AndroidMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/menus/IOSMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/menus/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builder/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Builder/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691436881005</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="git commit">
+      <created>1691870763469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691870763469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
