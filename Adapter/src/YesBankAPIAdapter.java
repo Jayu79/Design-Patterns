@@ -10,6 +10,5 @@ public class YesBankAPIAdapter implements BankAPIAdapter{
 
     public boolean sendMoney(String fromAccount,String toAccount,double Amount){
         return true;
-
     }
 }
