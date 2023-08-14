@@ -13,5 +13,4 @@ public class StrawberryScoop implements IceCreamConstituents{
     public String getDescription(){
         return iceCreamConstituents.getDescription()+" Strawberry Scoop";
     }
-
 }
