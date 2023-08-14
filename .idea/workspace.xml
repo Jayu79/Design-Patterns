@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba261029-86c8-4dde-ad84-20e32d517f04" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/Decorator/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/ChocolateCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/IceCreamConstituents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator/src/StrawberryScoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +130,28 @@
       <option name="project" value="LOCAL" />
       <updated>1691938503609</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="git commit">
+      <created>1692037107092</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692037107092</updated>
+    </task>
+    <task id="LOCAL-00013" summary="git commit">
+      <created>1692037317238</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692037317238</updated>
+    </task>
+    <task id="LOCAL-00014" summary="git commit">
+      <created>1692037480109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692037480109</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
