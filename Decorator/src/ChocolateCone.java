@@ -1,10 +1,10 @@
 public class ChocolateCone implements IceCreamConstituents{
 
     private IceCreamConstituents iceCreamConstituents;
-    public void ChocolateCone(){
+    public ChocolateCone(){
     }
 
-    public void ChocolateCone(IceCreamConstituents iceCreamConstituents){
+    public ChocolateCone(IceCreamConstituents iceCreamConstituents){
         this.iceCreamConstituents = iceCreamConstituents;
     }
 

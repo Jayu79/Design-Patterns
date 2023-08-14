@@ -2,7 +2,8 @@ public class ChocoChips implements IceCreamConstituents{
 
     private IceCreamConstituents iceCreamConstituents;
 
-    public void ChocoChips(IceCreamConstituents iceCreamConstituents){
+
+    public ChocoChips(IceCreamConstituents iceCreamConstituents){
         this.iceCreamConstituents = iceCreamConstituents;
     }
 

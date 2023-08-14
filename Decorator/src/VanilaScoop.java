@@ -1,7 +1,7 @@
 public class VanilaScoop implements IceCreamConstituents{
 
     private IceCreamConstituents iceCreamConstituents;
-    public void VanilaScoop(IceCreamConstituents iceCreamConstituents){
+    public VanilaScoop(IceCreamConstituents iceCreamConstituents){
         this.iceCreamConstituents = iceCreamConstituents;
     }
 

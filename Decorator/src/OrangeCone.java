@@ -1,10 +1,11 @@
 public class OrangeCone implements IceCreamConstituents{
 
     private IceCreamConstituents iceCreamConstituents;
-    public void IceCreamConstituents(){
+
+    public OrangeCone(){
     }
 
-    public void IceCreamConstituents(IceCreamConstituents iceCreamConstituents){
+    public OrangeCone(IceCreamConstituents iceCreamConstituents){
         this.iceCreamConstituents = iceCreamConstituents;
     }
 

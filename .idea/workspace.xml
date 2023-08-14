@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba261029-86c8-4dde-ad84-20e32d517f04" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/Decorator/src/ChocoChips.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/src/ChocoChips.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/ChocoChips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/src/ChocolateCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/ChocolateCone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/src/OrangeCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/OrangeCone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Decorator/src/StrawberryScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/StrawberryScoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/src/VanilaScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/VanilaScoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692037773706</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="git commit">
+      <created>1692040213938</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692040213938</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
