@@ -12,6 +12,7 @@ public class ICICIBankAPIAdapter implements BankAPIAdapter{
 
     @Override
     public boolean sendMoney(String fromAccount, String toAccount, double Amount) {
-        return false;
+
+        return true;
     }
 }
